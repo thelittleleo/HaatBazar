@@ -1,0 +1,75 @@
+.mid
+	{
+		border-style: solid;
+		border-width: 3px;
+		border-radius: 10px;
+		margin-top: 2%;
+		margin-bottom: 2%;
+		background-color: #f2eeea;
+		padding-top: 2%;
+		padding-bottom: 2%;
+	}
+	.ki
+	{
+		display: block;
+		max-width: 15%;
+		max-height: 15%;
+	}
+	.ik
+	{
+		display: block;
+		max-height: 70%;
+		max-width: 70%;
+	}
+	.pr
+	{
+		display: block;
+		max-height: 70%;
+		max-width: 70%;
+	}
+	.lf
+	{
+		text-align: center;
+	}
+	.pa
+	{
+		padding-top: 3%;
+	}
+	.list
+	{
+		border-style: transparent;
+		border-width: 2px;
+		border-radius: 15px;
+		background-color: white;
+		padding: 2% 2% 2% 2%;
+		margin: 2% 2% 2% 2%;
+	}
+	.dim
+	{
+		margin-top: 2%;
+		margin-bottom: 2%;
+		border-style: transparent;
+		background-color: #f2ece6;
+	}
+	.offers
+	{
+		border-style: transparent;
+		background-color: #f2ece6;
+		margin-top: 2%;
+		margin-bottom: 2%;
+		padding: 2% 2% 2% 2%;
+	}
+	.act
+	{
+		margin-top: 1%;
+		text-align: center;
+	}
+	.para
+	{
+		background-color: orange;
+		padding: auto;
+	}
+	.be
+	{
+		padding: 1% 1% 1% 1%;
+	}
